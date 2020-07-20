@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles.css';
-import logo from '../discord-logo.png' ;
+import logo from '../../discord-logo.png' ;
 
 function Div1 () {
     return (
