@@ -1,0 +1,53 @@
+.box-content {
+    height: 100%;
+    width: 100%;
+    background-color: #3a3d42;
+}
+
+.messages {
+    height: 93%;
+}
+
+.message-input {
+    height: 45px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#message-input-1 {
+    width: 880px;
+    height: 30px;
+    border-radius: 0;
+    margin: 0;
+    background-color: #2f3338;
+}
+
+.button-message-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2f3338;
+    height: 36px;
+    width: 36px;
+    margin: 0;
+    color: #5b5f63;
+    cursor: pointer;
+    transition: 0.25s;
+}
+
+.button-message-box:hover {
+    color: #7b7c7c;
+    transition: 0.25s;
+}
+
+#one {
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+#two {
+    border-top-right-radius: 6px;
+    border-top-right-radius: 6px;
+}
