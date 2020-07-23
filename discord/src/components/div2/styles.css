@@ -36,6 +36,12 @@ input {
     padding: 6px;
 }
 
+.select-button h4 {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
 .select-button:hover {
     background-color: #33363a;
     color: #cecece;
