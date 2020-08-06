@@ -1,12 +1,34 @@
 import React from 'react';
 import { FaPlusCircle, FaGift, FaStickyNote, FaSmile } from 'react-icons/fa';
 
+import Msg from "./msg";
+
 import './styles.css';
 
-function Messagebox () {
+function Messagebox (props) {
     return (
         <div className="box-content">
-            <div className="messages"></div>
+            <div className="user-messages">
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi yo"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+            
+                
+            </div>
+            
             <div className="message-input">
                 <div id="one" className="button-message-box"> 
                     <FaPlusCircle className="icon"></FaPlusCircle>
