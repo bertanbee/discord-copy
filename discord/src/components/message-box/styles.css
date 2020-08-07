@@ -6,6 +6,7 @@
 
 .messages {
     height: 93%;
+    max-height: 93%;
 }
 
 .message-input {
@@ -53,8 +54,24 @@
 }
 
 .user-messages {
-    height: 93%;
+    max-height: 93%;
+    height: 680px;
     width: 100%;
     overflow: scroll;
     overflow-x: hidden;
+    overflow: black;
+}
+
+-webkit-scrollbar-track {
+    background-color: transparent;
+}
+::-webkit-scrollbar {
+    width: 9px;
+    background-color: #5b5f63;
+    border-radius: 3px;
+    
+}
+::-webkit-scrollbar-thumb {
+    background: #2f3338;
+    border-radius: 3px;
 }

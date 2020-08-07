@@ -5,12 +5,34 @@ import Msg from "./msg";
 
 import './styles.css';
 
-function Messagebox (props) {
+function Messagebox () {
     return (
         <div className="box-content">
             <div className="user-messages">
                 <Msg msg="hi"></Msg>
                 <Msg msg="hi yo"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi yo"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
+                <Msg msg="hi"></Msg>
                 <Msg msg="hi"></Msg>
                 <Msg msg="hi"></Msg>
                 <Msg msg="hi"></Msg>
