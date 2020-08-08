@@ -1,6 +1,6 @@
 
 # What is this project about?
-
+![dog](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
    - This project is a reproduction of Discord's interface, made by me.
 
