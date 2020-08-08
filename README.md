@@ -8,6 +8,7 @@
 
   - Learn new React's features
   - Understand how Front-End works
+  ![cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 # More info 
 
