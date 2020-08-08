@@ -15,7 +15,7 @@
 
 # Project Spoilers
 
-![gif1](gif1.gif)
-![gif2](gif2.gif)
-![gif3](gif3.gif)
-![gif4](gif4.gif)
+![gif1](../gif1.gif)
+![gif2](../gif2.gif)
+![gif3](../gif3.gif)
+![gif4](../gif4.gif)
