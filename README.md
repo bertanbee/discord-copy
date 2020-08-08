@@ -5,10 +5,10 @@
    - This project is a reproduction of Discord's interface, made by me.
 
 # Objectives
-
+![cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
   - Learn new React's features
   - Understand how Front-End works
-![cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 
 # More info 
 
